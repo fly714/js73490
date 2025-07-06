@@ -1,5 +1,5 @@
-alert("Bienvenidos al Grupo Scout Nuestra Sra. de America Latina")
-let cantIncorporaciones = prompt("Ingrese la cantidad de incorporaciones:")
+alert("Bienvenidos a la division de ramas del Grupo Scout Nuestra Sra. de America Latina")
+let cantIncorporaciones = prompt("Ingrese el cupo de personas que se pueden incorporan al grupo:")
 alert("El grupo tiene un cupo para incorporar " + cantIncorporaciones + " personas")
 
 const ramas = ["Castores", "Manada", "Unidad", "Caminantes", "Rover", "Educador"]
